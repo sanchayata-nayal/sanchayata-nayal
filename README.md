@@ -10,9 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=sanchayata-nayal&style=flat-square&color=blue" alt=""/>
 </div>
 
-<br>
-<br>
----
+<hr>
 
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
