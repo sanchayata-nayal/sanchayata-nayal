@@ -6,6 +6,6 @@
   <a href="https://in.linkedin.com/in/sanchayata">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-<br/>
+  <br/>
 <img src="https://komarev.com/ghpvc/?username=sanchayata-nayal&style=flat-square&color=blue" alt=""/>
+</div>
