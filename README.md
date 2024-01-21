@@ -15,9 +15,9 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :telescope: I’m learning to data science and AI, along with frontend and backend for building web applications.
+- :telescope: I’m learning Data Science and AI technology, along with frontend and backend for building web applications.
 
-- :seedling: Exploring the Data Science world.
+- :seedling: Exploring the Data Science world!
 
 - :zap: In my free time, I solve problems, build projects and read tech articles.
 
