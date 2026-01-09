@@ -46,7 +46,7 @@ I’m a **Full Stack Developer from India 🇮🇳** with a growing focus on **A
 
   <!-- Backend / APIs -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" title="Spring Boot" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" title="Django" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain-wordmark.svg" title="Django" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" title="FastAPI" height="34"/>
 
   <!-- Frontend -->
@@ -59,7 +59,7 @@ I’m a **Full Stack Developer from India 🇮🇳** with a growing focus on **A
   <!-- Data / Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-original.svg" title="Databricks" height="34"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-plain-wordmark.svg" title="Databricks" height="34"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" height="36"/>
 
   <!-- Tools -->
