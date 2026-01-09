@@ -59,7 +59,10 @@ I’m a **Full Stack Developer from India 🇮🇳** with a growing focus on **A
   <!-- Data / Cloud -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" height="38"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" height="38"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/databricks/databricks-plain-wordmark.svg" title="Databricks" height="34"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/databricks.svg"
+     title="Databricks"
+     height="32"
+     style="filter: invert(48%) sepia(92%) saturate(412%) hue-rotate(357deg) brightness(98%) contrast(95%);"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" height="36"/>
 
   <!-- Tools -->
